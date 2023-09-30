@@ -16,6 +16,8 @@ const users = [
           cpf: "999999999-99",
           balance: 6000,
         },
+      },
+      {
         name: "pedro",
         email: "pedro@gmail.com",
         bank: {
@@ -34,3 +36,9 @@ const users = [
     },
   },
 ];
+
+users[0].bank.balance = 8000;
+users[1].couple[1].bank.balance = 10000;
+users[1].couple[0].email = "anajulia@gmail.com";
+
+console.log(users[1].couple[0].email);
