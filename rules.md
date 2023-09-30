@@ -1,0 +1,3 @@
+ - Mudar o balance do paulo para 8000.
+ - Pedro marido de ana agora precisa receber 10000 de balance.
+ - Ana mudou de e-mail, seu email agora é "anajulia@gmail.com"
